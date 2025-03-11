@@ -1,6 +1,6 @@
 # 🦘 Roocabulary  
 
-**The official Roocabulary – a playful and comprehensive dictionary of Roo Code terminology!**  
+**The official [Roocabulary](https://github.com/cannuri/Roocabulary/blob/main/roocabulary.md) – a playful and comprehensive dictionary of Roo Code terminology!**  
 
 Welcome to the **Roocabulary**, a collection of words, phrases, and jargon created to define and enhance the Roo Code experience. Whether you're a seasoned **Rooveloper** or just starting to integrate Roo Code into your **Rootine**, this repo is your go-to reference!  
 
@@ -14,7 +14,7 @@ This repository is **open-source**—everyone is welcome to contribute, improve,
 ---
 
 ## 📖 How to Use the Roocabulary  
-- **Browse the Roocabulary:** Check out the `roocabulary.md` file for all the latest terms.  
+- **Browse the Roocabulary:** Check out the [`roocabulary.md`](https://github.com/cannuri/Roocabulary/blob/main/roocabulary.md) file for all the latest terms.  
 - **Contribute:** If you have a great new Roo Code term, feel free to add it!  
 - **Use it in your projects:** The Roocabulary is open-source and free to use in any way you like.  
 
