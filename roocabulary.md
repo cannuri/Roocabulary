@@ -13,7 +13,14 @@ The act of delaying important tasks (such as taxes, work deadlines, or basic hum
 
 ### Roofactor *(ˈruː-fæk-tər)* *(verb)*  
 The process of refining Roo Code-generated code to improve readability and efficiency.  
-*"Roo Code gave me 50 lines, but after a quick Roofactor, it’s only five."*  
+*"Roo Code gave me 50 lines, but after a quick Roofactor, it’s only five."* 
+
+### ROOFL *(ˈruː-ɛf-ɛl)* *(exclamation, noun)*  
+1. An expression of amusement, often used when encountering an especially clever or ridiculous use of Roo Code.  
+   *"Did you see that one-line Roo Code refactor? ROOFL, that's genius!"*  
+   
+2. A reaction to an absurd or unexpected AI-generated code suggestion.  
+   *"Roo Code just turned my entire function into an emoji-based regex. ROOFL!"* 
 
 ### Roogmentation *(ˌruː-ɡmən-ˈteɪ-ʃən)* *(noun)*  
 The enhancement of human coding abilities through Roo Code assistance.  
