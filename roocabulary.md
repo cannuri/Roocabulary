@@ -7,9 +7,21 @@
 The act of using Roo Code to solve a bug, often revealing unexpected optimizations.  
 *"I thought I was stuck, but after some Roobugging, my script runs perfectly!"*  
 
+### Roocabulary *(ˈruː-kæb-jʊ-lɛr-i)* *(noun)*  
+The complete collection of words, phrases, and jargon used in Roo Code development. A must-have for every Rooveloper.  
+*"Before diving into Roo Code, make sure to study the Roocabulary!"*  
+
+### Rooception *(ˈruː-sɛp-ʃən)* *(noun)*  
+A situation in which Roo Code creates subtasks, which in turn generate further subtasks, forming a chain of nested tasks.  
+*"I used Roo Code to generate subtasks, but now those subtasks have their own subtasks—total Rooception!"*  
+
 ### Roocrastinating *(ˌruː-kræs-tɪ-neɪ-tɪŋ)* *(verb)*  
 The act of delaying important tasks (such as taxes, work deadlines, or basic human responsibilities) because you’re too busy exploring, tweaking, or otherwise getting lost in the latest Roo Code features. Often justified as “productive procrastination.”  
 *"I was supposed to do my taxes, but I ended up Roocrastinating and optimizing my Roo Code workflow instead."*  
+
+### Roodimentary *(ˌruː-dɪ-mɛn-tə-ri)* *(adjective)*  
+A basic or initial Roo Code-generated code structure that requires refinement.  
+*"The first draft of my function was pretty Roodimentary, but after some tweaks, it became a masterpiece!"*  
 
 ### Roofactor *(ˈruː-fæk-tər)* *(verb)*  
 The process of refining Roo Code-generated code to improve readability and efficiency.  
@@ -30,10 +42,6 @@ The enhancement of human coding abilities through Roo Code assistance.
 The regret of blindly accepting Roo Code-generated code without reviewing it.  
 *"I Rooployed too soon… now I have Roogrets."*  
 
-### Roocabulary *(ˈruː-kæb-jʊ-lɛr-i)* *(noun)*  
-The complete collection of words, phrases, and jargon used in Roo Code development. A must-have for every Rooveloper.  
-*"Before diving into Roo Code, make sure to study the Roocabulary!"*  
-
 ### Roolease *(ˈruː-liːs)* *(noun)*  
 A new version of Roo Code, often bringing groundbreaking improvements.  
 *"The latest Roolease added an incredible new debugging feature!"*  
@@ -42,6 +50,17 @@ A new version of Roo Code, often bringing groundbreaking improvements.
 The set of customizable rules that define behavior for custom modes in Roo Code.  
 *"I configured new Rooles to adapt my Roo Code environment to my needs."*  
 
+### Roomor *(ˈruː-mɔːr)* *(noun)*  
+1. An unverified claim or speculation about upcoming Roo Code features, often spreading through the **Rooniverse**.  
+   *"I heard a Roomor that the next Roolease will include self-debugging AI. That would be insane!"*  
+
+2. A misleading AI-generated suggestion that seems valid at first but turns out to be incorrect or impractical.  
+   *"I followed a Roo Code suggestion without checking it first… turns out it was just a Roomor!"*  
+
+### Rooniverse *(ˈruː-nɪ-vɜːrs)* *(noun)*  
+The vast ecosystem of possibilities unlocked by Roo Code-generated programming. Also refers to the Roo Code community, where developers share insights and discoveries.  
+*"Once you enter the Rooniverse, coding will never be the same."*  
+
 ### Rooploy *(ˈruː-plɔɪ)* *(verb)*  
 The act of deploying Roo Code-assisted code while hoping it works as expected.  
 *"It’s time to Rooploy this feature and pray."*  
@@ -49,14 +68,6 @@ The act of deploying Roo Code-assisted code while hoping it works as expected.
 ### Roopository *(ˈruː-pɒz-ɪ-tɔː-ri)* *(noun)*  
 A repository containing additional resources, templates, and tools for Roo Code development.  
 *"I found a great Roopository full of useful Roo Code snippets!"*  
-
-### Rooception *(ˈruː-sɛp-ʃən)* *(noun)*  
-A situation in which Roo Code creates subtasks, which in turn generate further subtasks, forming a chain of nested tasks.  
-*"I used Roo Code to generate subtasks, but now those subtasks have their own subtasks—total Rooception!"*  
-
-### Rooniverse *(ˈruː-nɪ-vɜːrs)* *(noun)*  
-The vast ecosystem of possibilities unlocked by Roo Code-generated programming. Also refers to the Roo Code community, where developers share insights and discoveries.  
-*"Once you enter the Rooniverse, coding will never be the same."*  
 
 ### Rootine *(ˈruː-tiːn)* *(noun)*  
 The ideal state where a developer has fully integrated Roo Code into their workflow, using it effortlessly as part of their daily coding habits.  
@@ -70,9 +81,13 @@ A developer who specializes in AI-assisted coding using Roo Code.
 The surge of motivation experienced when Roo Code solves a tough problem.  
 *"After hours of debugging, Roo Code gave me a much-needed Roovival!"*  
 
-### Roodimentary *(ˌruː-dɪ-mɛn-tə-ri)* *(adjective)*  
-A basic or initial Roo Code-generated code structure that requires refinement.  
-*"The first draft of my function was pretty Roodimentary, but after some tweaks, it became a masterpiece!"*  
+### Roothentic *(ˈruː-θɛn-tɪk)* *(adjective)*  
+Describes Roo Code-generated code that appears so natural it seems handcrafted.  
+*"This function looks Roothentic—it’s hard to believe Roo Code wrote it."*  
+
+### Roothless *(ˈruː-θlɪs)* *(adjective)*  
+Describes Roo Code-generated code that is aggressively optimized with little concern for readability.  
+*"Roo Code removed 90% of my lines—brilliant but absolutely Roothless."*  
 
 ### Rootorial *(ˈruː-tɔːr-i-əl)* *(noun)*  
 A Roo Code-generated tutorial guiding users through complex programming concepts.  
@@ -81,11 +96,3 @@ A Roo Code-generated tutorial guiding users through complex programming concepts
 ### Rootopia *(ˈruː-toʊ-pi-ə)* *(noun)*  
 A future where Roo Code-assisted coding is the norm, freeing developers from repetitive tasks.  
 *"In Rootopia, developers focus on creativity while Roo Code handles the grunt work."*  
-
-### Roothentic *(ˈruː-θɛn-tɪk)* *(adjective)*  
-Describes Roo Code-generated code that appears so natural it seems handcrafted.  
-*"This function looks Roothentic—it’s hard to believe Roo Code wrote it."*  
-
-### Roothless *(ˈruː-θlɪs)* *(adjective)*  
-Describes Roo Code-generated code that is aggressively optimized with little concern for readability.  
-*"Roo Code removed 90% of my lines—brilliant but absolutely Roothless."*  
