@@ -34,6 +34,14 @@ The process of refining Roo Code-generated code to improve readability and effic
 2. A reaction to an absurd or unexpected AI-generated code suggestion.  
    *"Roo Code just turned my entire function into an emoji-based regex. ROOFL!"* 
 
+### Roogle *(ˈruː-ɡəl)* *(verb)*
+To use Roo Code in combination with Google Gemini 2.5 Pro, achieving outstanding, accurate, and creative AI-generated coding results.
+
+Example Usage:
+- *“I am hitting the context window constantly with this task. I guess I should roogle it."*
+- *“I decided to roogle my script, and Gemini 2.5 Pro transformed it into perfection!”*
+- *“I’ve been roogling all afternoon—Gemini 2.5 never disappoints!”*
+
 ### Roogmentation *(ˌruː-ɡmən-ˈteɪ-ʃən)* *(noun)*  
 The enhancement of human coding abilities through Roo Code assistance.  
 *"Thanks to Roogmentation, I can code three times faster."*  
