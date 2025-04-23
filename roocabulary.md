@@ -50,6 +50,14 @@ The enhancement of human coding abilities through Roo Code assistance.
 The regret of blindly accepting Roo Code-generated code without reviewing it.  
 *"I Rooployed too soon… now I have Roogrets."*  
 
+### Rookie *(ˈruː-ki)* *noun*  
+A newcomer to the Roo Code ecosystem—someone just beginning to explore how it works.  
+Typically curious, experimental, and occasionally overwhelmed, a Rookie might spend hours debating whether to use a memory bank, how to structure a prompt effectively, or what a “mode” even does.
+
+Despite early uncertainty, Rookies are known for asking good questions and quickly building confidence as they learn by doing.
+
+*"Back then, I was a total Rookie—I didn’t even know modes could be shared."*
+
 ### Roolease *(ˈruː-liːs)* *(noun)*  
 A new version of Roo Code, often bringing groundbreaking improvements.  
 *"The latest Roolease added an incredible new debugging feature!"*  
