@@ -65,6 +65,11 @@ The set of customizable rules that define behavior for custom modes in Roo Code.
 2. A misleading AI-generated suggestion that seems valid at first but turns out to be incorrect or impractical.  
    *"I followed a Roo Code suggestion without checking it first… turns out it was just a Roomor!"*  
 
+### Roomunity *(ˈruː-mjuː-nə-ti)* *noun*  
+The collective community of Roo Code users, contributors, and enthusiasts who co-create, share, and support each other within the Rooniverse.
+A space where collaboration, curiosity, and creativity thrive—often powered by shared prompts, custom modes, Rooles, and the occasional ROOFL.
+*"The Roomunity helped me fix my prompt in under five minutes—these Roovelopers are amazing!"*
+
 ### Rooniverse *(ˈruː-nɪ-vɜːrs)* *(noun)*  
 The vast ecosystem of possibilities unlocked by Roo Code-generated programming. Also refers to the Roo Code community, where developers share insights and discoveries.  
 *"Once you enter the Rooniverse, coding will never be the same."*  
