@@ -103,6 +103,12 @@ The act of deploying Roo Code-assisted code while hoping it works as expected.
 A repository containing additional resources, templates, and tools for Roo Code development.  
 *"I found a great Roopository full of useful Roo Code snippets!"*  
 
+# Roosponsability  
+*[ruː-spɒn-sə-ˈbɪl-ə-ti]* **noun**  
+The duty of the Roo Code development team to identify, assign, and resolve unclaimed or unassigned issues in the project tracker.  
+
+*"Clearing out the orphaned tickets is part of our Roosponsability each sprint."* 
+
 ## Rootine  
 *[ˈruː-tiːn]* **noun**  
 The ideal state where a developer has fully integrated Roo Code into their workflow, using it effortlessly as part of their daily coding habits.  
