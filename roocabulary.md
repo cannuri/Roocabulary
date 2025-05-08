@@ -103,7 +103,7 @@ The act of deploying Roo Code-assisted code while hoping it works as expected.
 A repository containing additional resources, templates, and tools for Roo Code development.  
 *"I found a great Roopository full of useful Roo Code snippets!"*  
 
-# Roosponsability  
+## Roosponsability  
 *[ruː-spɒn-sə-ˈbɪl-ə-ti]* **noun**  
 The duty of the Roo Code development team to identify, assign, and resolve unclaimed or unassigned issues in the project tracker.  
 
