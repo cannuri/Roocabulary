@@ -127,7 +127,6 @@ The surge of motivation experienced when Roo Code solves a tough problem.
 ## Roovolution  
 *[ˌruːvəˈluːʃən]* **noun**  
 The revolution in AI-assisted coding made possible by Roo Code, fundamentally transforming how developers write, debug, and deploy software.  
-
 *"Viva la Roovolution!"*
 
 ## Roothentic  
