@@ -75,6 +75,12 @@ A new version of Roo Code, often bringing groundbreaking improvements.
 The set of customizable rules that define behavior for custom modes in Roo Code.  
 *"I configured new Rooles to adapt my Roo Code environment to my needs."*  
 
+## Rooligion  
+*[ruː-lɪˈdʒi.ən]* **noun**  
+A set of guiding principles, beliefs, and shared values that unify and inspire the Roo Code community—treating Roo Code almost like a faith. Enthusiasts who practice Rooligion demonstrate unwavering devotion to Roo’s ethos of playful experimentation, collaborative learning, and the power of AI-assisted coding.
+*"Ever since joining the Discord channel, I’ve been converted to Rooligion—now I insist every prompt be written with a kangaroo emoji!"*  
+*"The annual RooFest felt like a Rooligion gathering, complete with modular tutorials, worshipful debugging sessions, and communal debugging chants."*  
+
 ## Roomor  
 *[ˈruː-mɔːr]* **noun**  
 1. An unverified claim or speculation about upcoming Roo Code features, often spreading through the Rooniverse.  
