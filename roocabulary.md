@@ -154,3 +154,7 @@ A Roo Code-generated tutorial guiding users through complex programming concepts
 *[ˈruː-toʊ-pi-ə]* **noun**  
 A future where Roo Code-assisted coding is the norm, freeing developers from repetitive tasks.  
 *"In Rootopia, developers focus on creativity while Roo Code handles the grunt work."*  
+
+### Rooflow *(ˈruːfloʊ)* *(verb)*  
+The feeling of being in a state of Roo assisted code handing the work back and forth with great results.  
+*"I'm in a state of Rooflow don't interupt me."*  
